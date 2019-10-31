@@ -1,0 +1,12 @@
+C:\Users\Lenovo\Desktop\#peraCode\SmartGame\SmartGame\bin\Debug\SmartGame.exe.config
+C:\Users\Lenovo\Desktop\#peraCode\SmartGame\SmartGame\bin\Debug\SmartGame.exe
+C:\Users\Lenovo\Desktop\#peraCode\SmartGame\SmartGame\bin\Debug\SmartGame.pdb
+C:\Users\Lenovo\Desktop\#peraCode\SmartGame\SmartGame\obj\Debug\SmartGame.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\#peraCode\SmartGame\SmartGame\obj\Debug\SmartGame.Form1.resources
+C:\Users\Lenovo\Desktop\#peraCode\SmartGame\SmartGame\obj\Debug\SmartGame.Form2.resources
+C:\Users\Lenovo\Desktop\#peraCode\SmartGame\SmartGame\obj\Debug\SmartGame.Form3.resources
+C:\Users\Lenovo\Desktop\#peraCode\SmartGame\SmartGame\obj\Debug\SmartGame.Form4.resources
+C:\Users\Lenovo\Desktop\#peraCode\SmartGame\SmartGame\obj\Debug\SmartGame.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\#peraCode\SmartGame\SmartGame\obj\Debug\SmartGame.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\#peraCode\SmartGame\SmartGame\obj\Debug\SmartGame.exe
+C:\Users\Lenovo\Desktop\#peraCode\SmartGame\SmartGame\obj\Debug\SmartGame.pdb

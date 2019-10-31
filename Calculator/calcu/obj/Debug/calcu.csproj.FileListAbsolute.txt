@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Desktop\#peraCode\calcu\calcu\bin\Debug\calcu.exe.config
+C:\Users\Lenovo\Desktop\#peraCode\calcu\calcu\obj\Debug\calcu.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\#peraCode\calcu\calcu\obj\Debug\calcu.Form1.resources
+C:\Users\Lenovo\Desktop\#peraCode\calcu\calcu\obj\Debug\calcu.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\#peraCode\calcu\calcu\obj\Debug\calcu.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\#peraCode\calcu\calcu\bin\Debug\calcu.exe
+C:\Users\Lenovo\Desktop\#peraCode\calcu\calcu\bin\Debug\calcu.pdb
+C:\Users\Lenovo\Desktop\#peraCode\calcu\calcu\obj\Debug\calcu.exe
+C:\Users\Lenovo\Desktop\#peraCode\calcu\calcu\obj\Debug\calcu.pdb

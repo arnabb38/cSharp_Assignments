@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Desktop\#peraCode\ClickScore\ClickScore\bin\Debug\ClickScore.exe.config
+C:\Users\Lenovo\Desktop\#peraCode\ClickScore\ClickScore\bin\Debug\ClickScore.exe
+C:\Users\Lenovo\Desktop\#peraCode\ClickScore\ClickScore\bin\Debug\ClickScore.pdb
+C:\Users\Lenovo\Desktop\#peraCode\ClickScore\ClickScore\obj\Debug\ClickScore.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\#peraCode\ClickScore\ClickScore\obj\Debug\ClickScore.Form1.resources
+C:\Users\Lenovo\Desktop\#peraCode\ClickScore\ClickScore\obj\Debug\ClickScore.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\#peraCode\ClickScore\ClickScore\obj\Debug\ClickScore.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\#peraCode\ClickScore\ClickScore\obj\Debug\ClickScore.exe
+C:\Users\Lenovo\Desktop\#peraCode\ClickScore\ClickScore\obj\Debug\ClickScore.pdb
